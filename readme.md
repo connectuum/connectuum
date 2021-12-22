@@ -3,19 +3,33 @@
 `>begin`
 
 
-## continuum
+### prolog(ue)
 
-a coherent whole characterized as a collection, sequence, or progression of values or elements varying by minute degrees (ex: "good" and "bad" stand at opposite ends of a _continuum_ instead of describing the two halves of a line).
+[continuum](https://www.merriam-webster.com/dictionary/continuum):
+
+> `0` a coherent whole characterized as a collection, sequence, or progression of values or elements varying by minute degrees // "good" and "bad" stand at opposite ends of a continuum instead of describing the two halves of a line \
+`1` the set of real numbers, including both the rationals and the irrationals
+
+[connection](https://www.merriam-webster.com/dictionary/connection):
+
+> `0` something that joins or connects two or more things \
+`1` the act of connecting two or more things or the state of being connected \
+`2` a situation in which two or more things have the same cause, origin, goal, etc. // connections between thought and language
+
+[intersubjective](https://www.merriam-webster.com/dictionary/intersubjective):
+
+> `0` involving or occurring between separate conscious minds // intersubjective communication \
+`1` accessible to or capable of being established for two or more subjects : objective // intersubjective reality of the physical world
 
 
-## connectuum
+### connectuum
 
 a coherent whole (characterized as:) \
 a network, fabric \
 directed graph \
 labyrinthine complex system \
 (con)junction, mesh, mycelium \
-lineage, tree, family \
+lineage, kin, family, tree \
 deeply relational web.
 
 a coherent soul (renormalized as:) \
@@ -23,11 +37,11 @@ semantic portals \
 syntactic paths \
 `foreach` pair of element(a)ry \
 endless courses flow between \
-every scenic route a vision \
-story every branching path.
+every scenic route, a vision \
+story, every branching path.
 
 
-## sounds of dread alarm
+### sounds of dread alarm
 
 decentralize \
 human connection \
@@ -38,14 +52,14 @@ decentralize \
 human connection \
 [sweet nuance of home] \
 [no longer alone] \
-[_feeling_; something has _grown_] \
+[_feeling;_ something has _grown_] \
 decentralize \
 human connection \
 decentralize \
 human connection
 
 
-## call to arms and order
+### call to arms and order
 
 find a new way \
 bring culture to tech \
